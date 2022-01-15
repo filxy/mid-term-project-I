@@ -1,4 +1,4 @@
-# Mid-Term Project
+# Mid-Term Project by Filza,Farhad,wenzhi
 This repository cointains all the information you need to work on the Mid-Term project.
 
 ## Hello and Welcome!!!
